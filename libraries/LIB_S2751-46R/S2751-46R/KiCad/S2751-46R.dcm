@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP S2751-46R
+D Hardware: SMT Test Point 1.2x2mm 1.4mm high (T+R)
+K
+F https://content.harwin.com/m/ae67ab610c42d529/original/DRG-02222-Technical-Drawing-Datasheet-S2751R-pdf.pdf
+$ENDCMP
+#
+#End Doc Library

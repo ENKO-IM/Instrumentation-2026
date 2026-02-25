@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'KRE_02'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "LUMBERG", "KRE 02" (!) = "", "KRE02", "Other", "", "", "LUMBERG - KRE 02 - Wire-To-Board Terminal Block, 5 mm, 2 Ways, 4 mm, Screw", "https://componentsearchengine.com/Datasheets/2/KRE 02.pdf", "15.5 mm"
+END_PART
+
+END.

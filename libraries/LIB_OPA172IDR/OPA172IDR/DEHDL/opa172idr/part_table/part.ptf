@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'OPA172IDR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "OPA172IDR" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "", "", "36-V, Single-Supply, 10-MHz, Rail-to-Rail Output, Operational Amplifier", "http://www.ti.com/lit/gpn/opa172", "1.75 mm"
+END_PART
+
+END.

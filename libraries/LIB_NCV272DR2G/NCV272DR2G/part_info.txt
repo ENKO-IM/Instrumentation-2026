@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=NCV272DR2G
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=2.1
+Released=2023-12-06 03:59:08
+Downloaded=2026-02-23 23:13:27
+3D=Y

@@ -1,0 +1,62 @@
+(Japanese_coding: sjis)
+(function "ECS_767391"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-02-07-17:05:23)
+    (utime 2026-01-02-13:22:20)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+    )
+    (property "symbolName" "S2751-46R")
+)
+
+
+(pinAssign "ECS_767391"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-02-07-17:05:23)
+    (utime 2026-01-02-13:22:20)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_767391")
+                (port "1" (match "1"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "S2751-46R")
+)
+
+
+(part "S2751-46R"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-02-07-17:05:23)
+    (utime 2026-01-02-13:22:20)
+    (packageRef "S2751-46R")
+    (pinAssignRef "ECS_767391")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "TP")
+    (property "description" "Hardware: SMT Test Point 1.2x2mm 1.4mm high (T+R)")
+    (property "Farnell_Part_Number" "")
+    (property "Farnell_Price/Stock" "")
+    (property "Manufacturer_Name" "Harwin")
+    (property "Manufacturer_Part_Number" "S2751-46R")
+    (property "Datasheet_Link" "https://content.harwin.com/m/ae67ab610c42d529/original/DRG-02222-Technical-Drawing-Datasheet-S2751R-pdf.pdf")
+    (property "compAreaTopHeight" 1.4)
+)
+
+

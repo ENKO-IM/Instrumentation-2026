@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'S2751_46R'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Harwin", "S2751-46R" (!) = "", "S275146R", "Other", "", "", "Hardware: SMT Test Point 1.2x2mm 1.4mm high (T+R)", "https://content.harwin.com/m/ae67ab610c42d529/original/DRG-02222-Technical-Drawing-Datasheet-S2751R-pdf.pdf", "1.4 mm"
+END_PART
+
+END.

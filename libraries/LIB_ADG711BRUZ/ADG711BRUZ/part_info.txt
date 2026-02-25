@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=ADG711BRUZ
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=16
+Version=5.1
+Released=2020-12-28 05:55:26
+Downloaded=2026-02-23 23:45:18
+3D=Y

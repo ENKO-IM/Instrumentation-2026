@@ -1,0 +1,9 @@
+Manufacturer=LUMBERG
+PartNumber=KRE 02
+PartCategory=Connector
+PackageCategory=Other
+PinCount=2
+Version=1.4
+Released=2020-06-06 16:45:10
+Downloaded=2026-02-24 00:46:50
+3D=Y

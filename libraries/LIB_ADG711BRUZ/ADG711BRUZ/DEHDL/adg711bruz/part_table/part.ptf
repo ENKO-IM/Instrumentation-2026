@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADG711BRUZ'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "ADG711BRUZ" (!) = "", "SOP65P640X120-16N", "Small Outline Packages", "", "", "ADG711BRUZ, Analogue SPST Switch Quad SPST, 3 V, 5 V, 16-Pin, TSSOP, 4", "http://www.analog.com/media/en/technical-documentation/data-sheets/ADG711_712_713.pdf", "1.2 mm"
+END_PART
+
+END.

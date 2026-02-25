@@ -1,0 +1,16 @@
+.OPA172IDR :1 ;36-V, Single-Supply, 10-MHz, Rail-to-Rail Output, Operational Amplifier
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="NC_1" 2="-IN" 3="+IN" 4="V-" 5="NC_2" 6="OUT" 7="V+" 8="NC_3"
+*MXP 8
+*DFN OPA172IDR
+~!Farnell Part Number (-)
+~!Farnell Price/Stock (-)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (OPA172IDR)
+~!Link Datasheet (http://www.ti.com/lit/gpn/opa172)
+~!Height (1.75mm)
+~!3D_Model (OPA172IDR)
+OPA172IDR
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

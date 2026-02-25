@@ -1,0 +1,16 @@
+.S2751-46R :1 ;Hardware: SMT Test Point 1.2x2mm 1.4mm high (T+R)
+S275146R
+*STM TP
+*NGS
+*PLB 1="1"
+*MXP 1
+*DFN S2751-46R
+~!Farnell Part Number (-)
+~!Farnell Price/Stock (-)
+~!Manufacturer_Name (Harwin)
+~!Manufacturer_Part_Number (S2751-46R)
+~!Link Datasheet (https://content.harwin.com/m/ae67ab610c42d529/original/DRG-02222-Technical-Drawing-Datasheet-S2751R-pdf.pdf)
+~!Height (1.4mm)
+~!3D_Model (S2751-46R)
+S2751-46R
+1.1!U 

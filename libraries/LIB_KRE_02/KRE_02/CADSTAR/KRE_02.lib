@@ -1,0 +1,16 @@
+.KRE_02 :1 ;LUMBERG - KRE 02 - Wire-To-Board Terminal Block, 5 mm, 2 Ways, 4 mm, Screw
+KRE02
+*STM J
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN KRE_02
+~!Farnell Part Number (-)
+~!Farnell Price/Stock (-)
+~!Manufacturer_Name (LUMBERG)
+~!Manufacturer_Part_Number (KRE 02)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/KRE 02.pdf)
+~!Height (15.5mm)
+~!3D_Model (KRE_02)
+KRE_02
+1.1!U 2.1!U 

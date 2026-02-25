@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NCV272DR2G
+D Wide Bandwidth: 3 MHz; Wide Power Supply Range: 2.7 to 36V; Low Supply Current: 416 A; Rail to Rail Output
+K
+F https://www.onsemi.com/pub/Collateral/TLV271-D.PDF
+$ENDCMP
+#
+#End Doc Library

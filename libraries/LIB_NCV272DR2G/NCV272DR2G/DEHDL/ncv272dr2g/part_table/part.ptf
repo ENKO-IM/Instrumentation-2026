@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NCV272DR2G'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "onsemi", "NCV272DR2G" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "", "", "Wide Bandwidth: 3 MHz; Wide Power Supply Range: 2.7 to 36V; Low Supply Current: 416 A; Rail to Rail Output", "https://www.onsemi.com/pub/Collateral/TLV271-D.PDF", "1.75 mm"
+END_PART
+
+END.

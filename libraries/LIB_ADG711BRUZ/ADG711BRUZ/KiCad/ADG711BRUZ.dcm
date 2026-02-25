@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADG711BRUZ
+D ADG711BRUZ, Analogue SPST Switch Quad SPST, 3 V, 5 V, 16-Pin, TSSOP, 4
+K
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADG711_712_713.pdf
+$ENDCMP
+#
+#End Doc Library
